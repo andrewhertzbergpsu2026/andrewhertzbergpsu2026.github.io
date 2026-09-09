@@ -2,6 +2,10 @@
 
 Static HTML and CSS portfolio for GitHub Pages. No build step, account database, analytics, external font service or API keys are required.
 
+## AI assistance
+
+AI tools were used to help design and build this website, write and revise its HTML/CSS, organize content, and check layouts and links. Andrew provided the personal information and directed the wording and design revisions. This disclosure is included in the repository README, not in the displayed website pages.
+
 ## Local preview
 
 ```sh
