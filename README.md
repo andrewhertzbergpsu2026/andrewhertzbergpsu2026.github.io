@@ -16,6 +16,7 @@ Open http://localhost:8765. The site works at the root of `andrewhertzbergpsu202
 
 ## Editing
 
+- `appearance.css`: current paper-and-ink visual theme, typography, side navigation, and responsive project and reading lists. Loaded after the base styles.
 - `index.html`: introduction, selected projects, education and experience, contact.
 - `work.html`: project descriptions, limitations and source links.
 - `research.html`: exploratory research methods and interests.
