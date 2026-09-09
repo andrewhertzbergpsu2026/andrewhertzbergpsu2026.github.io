@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -25 420 405" fill="none">
+  <title>A book beside the hills</title>
+  <defs>
+    <clipPath id="window"><path d="M70 265V130a140 140 0 0 1 280 0v135Z"/></clipPath>
+    <pattern id="lines" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(25)"><path d="M0 0v7" stroke="#68725c" stroke-opacity=".15"/></pattern>
+  </defs>
+  <g clip-path="url(#window)">
+    <path fill="#eee9dc" d="M65 0h290v270H65z"/>
+    <circle cx="271" cy="96" r="32" fill="#ac644a"/>
+    <path d="M30 202Q103 118 191 185T384 144v136H30Z" fill="#ccd0ba"/>
+    <path d="M35 246Q124 157 229 214T385 191v96H35Z" fill="#929d7e"/>
+    <path d="M35 246Q124 157 229 214T385 191v96H35Z" fill="url(#lines)"/>
+    <path d="M228 211q-46 22-25 39t-44 24" stroke="#e7dfc9" stroke-width="8"/>
+    <path d="m93 221 1-54m-15 25 15 12 16-21m-26-9 10 13 10-18" stroke="#68725c" stroke-width="2"/>
+  </g>
+  <path d="M70 265V130a140 140 0 0 1 280 0v135M58 270h305M47 278h326" stroke="#56604d" stroke-width="1.5"/>
+  <path d="M102 301q51-28 108-7 44-31 102-17l18 54q-65-8-116 16-49-21-119-4Z" fill="#e9e1cd" stroke="#56604d" stroke-width="1.5"/>
+  <path d="m104 293 9-14q48-16 96 15 41-35 96-28l7 51q-49-4-98 23-49-23-108-12Z" fill="#faf8f2" stroke="#56604d" stroke-width="1.5"/>
+  <path d="m209 294 5 46m-91-49q36-7 70 15m-71-5q36-6 72 16m38-14q29-21 58-23m-57 34q30-20 59-22m-179 44q52-4 99 19 50-23 109-20" stroke="#92967f" stroke-width="1.2"/>
+  <path d="m236 331 3 27 9-8 7 3-3-28" fill="#a35c45"/>
+</svg>
